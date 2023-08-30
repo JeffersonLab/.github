@@ -1,5 +1,7 @@
 # Contributor Covenant Code of Conduct
 
+See Also: [Jefferson Lab Standards and Ethics](https://www.jlab.org/human_resources/standards-ethics)
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
