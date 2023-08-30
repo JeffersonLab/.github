@@ -10,4 +10,4 @@ If you'd like to contribute a code change as an outside contributor:
  3. Make the code changes on the branch
  4. Commit your changes, [linking them to an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) if applicable
  5. Push your changes to your fork
- 6. Create a pull request
+ 6. Create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
